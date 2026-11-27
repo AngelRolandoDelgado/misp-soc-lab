@@ -1,0 +1,4 @@
+*.vdi
+*.7z
+*.env
+misp_settings.txt
